@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fling Pix</string>
+    <string name="menu_about">About Fling Pix</string>
+    <string name="menu_accel">Accelerometer</string>
+    <string name="menu_gyroscope">Gyroscope</string>
+    <string name="menu_gravity">Gravity</string>
+    <string name="menu_linear">Linear Accelerometer</string>
+    <string name="menu_rotvect">Rotation Vector</string>
+    <string name="menu_magnetic">Magnetic</string>
+    <string name="menu_orientation">Orientation</string>
+    <string name="menu_camera">Camera</string>
+    <string name="message_about">Fling Pix, by Mark Brito (mark.brito@gmail.com). Fling a Picture in 3D on your Android!</string>
+</resources>
